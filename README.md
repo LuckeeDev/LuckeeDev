@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Luca 👋
 
-<!--
-**LuckeeDev/LuckeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 I’m currently working on:
 
-Here are some ideas to get you started:
+- [CSL](https://github.com/LuckeeDev/csl), an app for students and schools;
+- some fun projects to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently learning:
+
+Physics and fun ways to apply programming to it!
+
+<sup><sub>Thanks to the [amazing work](https://www.figma.com/community/file/829741575478342595) by Micah Lanier for my avatar (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).</sub></sup>
+
+
+
