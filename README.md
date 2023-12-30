@@ -11,7 +11,7 @@
 - [LuTeX](https://luckeedev.github.io/LuTeX), a collection of $\LaTeX$ projects for my studies at university.
 - [Analytical Mechanics](https://github.com/LuckeeDev/analytical_mechanics), a repository with Python simulations for the "Analytical Mechanics" course at the University of Bologna.
 - [ROOT](https://github.com/LuckeeDev/root), a collection of [ROOT](https://root.cern/) macros for the "Laboratory" courses at the University of Bologna.
-- [CSL](https://github.com/LuckeeDev/csl), an open source website for school communities. The project is stale and will probably not be updated.
+- [CSL](https://github.com/LuckeeDev/csl), an open source website for school communities. The project is archived and is read-only.
 - ...and some other experiments ⚗️.
 
 <sup><sub>Thanks to the [amazing work](https://www.figma.com/community/file/829741575478342595) by Micah Lanier for my avatar (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).</sub></sup>
