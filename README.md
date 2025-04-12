@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I’m currently working on:
 
-- studying Physics at the University of Bologna;
+- studying Physics at the University of Bologna, currently on Erasmus+ at University College London;
 - some fun projects to learn new stuff.
 
 ## 🔭 What's on my GitHub profile:
