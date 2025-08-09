@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I’m currently working on:
 
-- studying Physics at EPFL;
+- studying Physics at EPFL, focusing on Quantum Information and Computation;
 - some fun projects to learn new stuff.
 
 ## 🔭 What's on my GitHub profile:
@@ -15,8 +15,3 @@
 - [ROOT](https://github.com/LuckeeDev/root), a collection of [ROOT](https://root.cern/) macros for the "Laboratory" courses at the University of Bologna.
 - [CSL](https://github.com/LuckeeDev/csl), an open source website for school communities. The project is archived and is read-only.
 - ...and some other experiments ⚗️.
-
-<sup><sub>Thanks to the [amazing work](https://www.figma.com/community/file/829741575478342595) by Micah Lanier for my avatar (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).</sub></sup>
-
-
-
