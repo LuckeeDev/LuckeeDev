@@ -2,11 +2,12 @@
 
 ## 👨‍💻 I’m currently working on:
 
-- studying Physics at the University of Bologna, currently on Erasmus+ at University College London;
+- studying Physics at EPFL;
 - some fun projects to learn new stuff.
 
 ## 🔭 What's on my GitHub profile:
 
+- [Sommerfeld enhancement of dark matter signals at telescopes](https://github.com/LuckeeDev/bachelor-thesis), my bachelor thesis, complete with some code I used for my research.
 - [Five nights at DIFA](https://github.com/LuckeeDev/fnad), a game I made with [@estintore](https://github.com/est1ntore) for the "Programming for Physics" exam.
 - [LuTeX](https://luckeedev.github.io/LuTeX), a collection of $\LaTeX$ projects for my studies at university.
 - [Analytical Mechanics](https://github.com/LuckeeDev/analytical-mechanics), a repository with Python simulations for the "Analytical Mechanics" course at the University of Bologna.
