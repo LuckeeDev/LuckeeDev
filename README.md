@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I’m currently working on:
 
-- studying Physics at EPFL, focusing on Quantum Information and Computation;
+- studying Physics at EPFL;
 - some fun projects to learn new stuff.
 
 ## 🔭 What's on my GitHub profile:
